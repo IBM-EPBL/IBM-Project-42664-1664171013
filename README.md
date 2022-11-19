@@ -8,7 +8,7 @@ This is a git-hub handle created for IBM assisted Nutrition assistant Applicatio
 3. Manoj kumar T (Team Member 2)
 4. Muthu Kumar P (Team Member 3)
 
-Project Video Link : https://drive.google.com/file/d/12Ee-Orrhevbv0l9k-YXpAZa8dXFlE4Og/view?usp=share_link
+Project Video Link : https://drive.google.com/file/d/12Ee-Orrhevbv0l9K-YXpAZa8dXFlE4Og/view?usp=share_link
 
 Dataset Link : https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 
